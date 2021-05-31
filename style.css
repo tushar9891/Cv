@@ -6,6 +6,7 @@ h2{
 }
 #home{
   background-color: #66bfbf;
+  height: 100vh;
 }
 .navbar-brand , .nav-item{
   font-family: 'Stint Ultra Condensed', cursive;
